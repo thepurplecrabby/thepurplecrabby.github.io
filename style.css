@@ -8,3 +8,7 @@ h1  {
     font-family: 'Roboto', sans-serif;
     color: white;
 }
+
+img {
+    max-width: 100vw;
+}
