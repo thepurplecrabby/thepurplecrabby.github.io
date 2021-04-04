@@ -29,7 +29,7 @@ img {
 }
 
 img:hover {
-    transform: rotate(540deg);
+    transform: rotate(720deg);
 }
 
 footer {
