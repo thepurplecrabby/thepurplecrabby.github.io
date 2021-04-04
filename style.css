@@ -1,14 +1,43 @@
 body {
-    background-color: purple;
-    text-align: center;
+    background-color: #ba88fd;
     margin: 0 auto;
+    font-family: 'Nunito', sans-serif;
+    color: #080808;
 }
 
-h1  {
-    font-family: 'Roboto', sans-serif;
-    color: white;
+h1 {
+    text-align: center;
+}
+
+h2, p {
+    text-align: left;
+}
+
+.content {
+    max-width: 80vw;
+    margin: auto;
+}
+
+.img-wrapper {
+    text-align: center;
 }
 
 img {
     max-width: 100vw;
+    transition: transform 2s;
+    width: 300px;
+}
+
+img:hover {
+    transform: rotate(540deg);
+}
+
+footer {
+    padding: 10px;
+    padding-bottom: 40px;
+    text-align: center;
+}
+
+footer a{
+    text-decoration: none;
 }
