@@ -3,6 +3,7 @@ body {
     margin: 0 auto;
     font-family: 'Nunito', sans-serif;
     color: #080808;
+    font-display: fallback;
 }
 
 header, footer {
