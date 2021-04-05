@@ -1,0 +1,1 @@
+console.log("Welcome to \"The Purple Crabby\" Home-Page")
